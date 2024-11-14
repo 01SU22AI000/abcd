@@ -1,7 +1,1 @@
 "message_id","date","chat.id","chat.type","from.id","from.username","from.first_name","text"
-"message_id","date","chat.id","chat.type","from.id","from.username","from.first_name","text"
-"3231","1731582654","5928914069","private","5928914069","Virochan27","Virochan","Hello"
-"date","text","chat","from","message_id"
-"1731582971","Hello","{""id"":""5928914069"",""type"":""private""}","{""language_code"":""en"",""username"":""Virochan27"",""first_name"":""Virochan"",""id"":""5928914069""}","3233"
-"message_id","date","chat.id","chat.type","from.id","from.username","from.first_name","text"
-"3235","1731583011","5928914069","private","5928914069","Virochan27","Virochan","Hello"
